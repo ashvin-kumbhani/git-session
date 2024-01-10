@@ -46,3 +46,11 @@
 ## 9. Challenges
 - **Dependency on Network:**
   - Client-server systems rely on network connectivity; if the network fails, communication between clients and servers can be disrupted.
+
+<img width="573" alt="image" src="https://github.com/ashvin-kumbhani/git-session/assets/36836796/f604eb16-f66c-4dc7-9624-8e6cb08d84be">
+
+
+
+
+
+
